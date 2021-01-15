@@ -1,3 +1,3 @@
 # vds_lab_2
 
-Data set from https://www.kaggle.com/rsrishav/youtube-trending-video-dataset
+Vidsual Data Science Winter 2020/2021. Sentiment Analysis using vaderSentiment on tweets about Covid and Covid Vaccinations.
