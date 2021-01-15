@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 LabPart2-Report*
+*.twb
+*.xlsx
+*.csv
+/data/*
